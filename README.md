@@ -1,3 +1,3 @@
 # Reactbase
 
-Testing out Firebase intergrating with React.
+Testing out Firebase integrating with React.
